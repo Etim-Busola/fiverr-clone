@@ -157,7 +157,9 @@ ul{
 .trustedby{
     display: flex;
     align-items: center;
-    width: 450px;
+    justify-content: center;
+    color: gray;
+    background-color: red;
     
 }
 
